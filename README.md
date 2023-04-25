@@ -4,7 +4,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/8919)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Sl6yer__)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sl6yer&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
 
