@@ -19,6 +19,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl6yer&theme=blue-green"/>
+![Sl6yer GitHub stats](https://github-readme-stats.vercel.app/api?username=Sl6yer&show_icons=true&theme=transparent)
 
 Olá, eu sou Eduardo. Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou focado em me aprimorar em Javascript e em projetos envolvendo Front End e Back End
