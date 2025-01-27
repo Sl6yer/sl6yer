@@ -19,4 +19,6 @@
 
 <br/>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 Olá, eu sou Eduardo. Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou focado em me aprimorar em Javascript e em projetos envolvendo Front End e Back End
